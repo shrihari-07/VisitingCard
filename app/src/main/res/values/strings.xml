@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="textview4">TextView</string>
+    <string name="e_mail2">E-mail:</string>
+    <string name="name">Name</string>
+    <string name="job_title">Job title</string>
+    <string name="upload_pic">Upload Pic</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="generate">Generate</string>
+    <string name="name2">Name</string>
+    <string name="job_title2">Job title:</string>
+    <string name="textview1">TextView</string>
+    <string name="phone2">Phone:</string>
+    <string name="textview2">TextView</string>
+    <string name="address2">Address:</string>
+    <string name="textview3">TextView</string>
+</resources>
